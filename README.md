@@ -1,16 +1,7 @@
-# flutter_counter_bloc_app
+# Flutter Counter Bloc App
 
-A new Flutter project.
+A Flutter project for learning Bloc State Management Flutter. Simple App Using Cubit.
 
-## Getting Started
+## Screenshot
+![Screenrecorder-2024-06-28-15-25-05-158-ezgif com-video-to-gif-converter](https://github.com/bagih/flutter_counter_bloc_app/assets/26532758/24e1f769-52a1-4213-9756-2968a2bfbd2c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
